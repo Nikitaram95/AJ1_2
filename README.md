@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/klnsjfycps9m69q2?svg=true)](https://ci.appveyor.com/project/Nikitaram95/aj1)
+[![Build status](https://ci.appveyor.com/api/projects/status/8b2238ayb95bse7s?svg=true)](https://ci.appveyor.com/project/Nikitaram95/aj2-71at2)
